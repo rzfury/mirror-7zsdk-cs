@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
+    <OutputType>Library</OutputType>
+    <IsPublishable>False</IsPublishable>
+  </PropertyGroup>
+</Project>
